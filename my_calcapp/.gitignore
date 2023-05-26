@@ -1,0 +1,24 @@
+# Archivos generados por herramientas de construcción
+/node_modules/
+/build/
+/dist/
+
+# Archivos de entorno
+.env
+
+# Archivos de respaldo
+*.bak
+*.swp
+*.~ 
+
+# Archivos específicos
+/yarn.lock
+.DS_Store
+
+# Carpetas de IDE o editores de texto
+/.vscode/
+/.idea/
+
+# Logs y archivos de registro
+/logs/
+*.log

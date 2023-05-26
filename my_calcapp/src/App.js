@@ -2,17 +2,14 @@ import React from "react";
 import Calculator from "./components/Calculator";
 
 /**
- * 
- * In this file, the Calculator component is called
- * 
+ * Main component that renders the Calculator.
  */
-
 function App() {
-    return(
-		<div>
-			<Calculator /> 
-		</div>
-	);
+  return (
+    <div>
+      <Calculator />
+    </div>
+  );
 }
 
-export default App
+export default App;
