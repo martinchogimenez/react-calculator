@@ -43,8 +43,6 @@ my_calcapp/
   |- README.md
   |- .gitignore
 
-markdown
-Copy code
 
 - `src/`: Contiene los archivos fuente de la aplicación.
 - `public/`: Contiene archivos públicos, como el archivo HTML de entrada y el archivo de manifiesto para la instalación de la aplicación web.
