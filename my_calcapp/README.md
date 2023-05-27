@@ -56,6 +56,13 @@ Las contribuciones son bienvenidas. Si deseas mejorar esta calculadora o agregar
 
 Este proyecto está bajo la Licencia [MIT](LICENSE).
 
+## Contacto
+
+martin.gimenezartero@alu.frt.utn.edu.ar
+www.linkedin.com/in/martin-gimenez-
+
+
+
 
 
 
